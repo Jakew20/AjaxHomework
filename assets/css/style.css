@@ -1,0 +1,57 @@
+body {
+    width: 90%;
+    margin: auto;
+}
+
+
+button,
+    form,
+    input {
+      margin: 20px;
+    }
+
+#add-game {
+    margin: 20px;
+}
+
+.game {
+    margin: 5px;
+}
+
+img {
+    width: 450px;
+    height: 450px;
+    border-style: ridge;
+    border-color: black;
+    border-width: 5px;
+    
+}
+
+.display-3 {
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: darkred;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+body {
+    background-color:  rgba(12, 12, 12, 0.36);
+}
+
+label {
+    font-size: 250%;
+    color: darkred;
+}
+
+img {
+    display: block;
+    position: relative;
+    margin: auto;
+}
+
+
