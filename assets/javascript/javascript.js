@@ -15,7 +15,7 @@ function displayGameInfo() {
     console.log(game)
 
 
-var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + game + "&api_key=8TtNr1dlzsMgfp2Kyz0AJapRW6QygNaL&limit=9"
+var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + game + "&api_key=8TtNr1dlzsMgfp2Kyz0AJapRW6QygNaL&limit=9"
   
  $.ajax({
     url: queryURL, 
